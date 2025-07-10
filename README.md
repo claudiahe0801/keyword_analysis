@@ -46,10 +46,6 @@ This project aims to support paid search marketing by identifying high-performin
 
 Open `keywords_analysis.ipynb` in Jupyter to explore the full process and replicate the analysis on new keyword data.
 
-## Author
-
-Claudia (Yuxia He), 2025
-
 ---
 
 Feel free to contribute or adapt this workflow for your own ad campaign optimization.
